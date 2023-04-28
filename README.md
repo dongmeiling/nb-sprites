@@ -3,6 +3,6 @@ Showdown sprite set for gen 3 that adds RG and Gold sprites, because showdown la
 
 For use with a sprite editing userscript
 
-https://pastebin.com/jynWsbSZ
+https://pastebin.com/xk1wiKj7
 
 https://www.tampermonkey.net/
